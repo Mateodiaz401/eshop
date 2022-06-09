@@ -1,1 +1,1 @@
-# React eshop
+# React js eshop
